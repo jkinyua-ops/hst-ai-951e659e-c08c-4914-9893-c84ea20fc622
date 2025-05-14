@@ -2,3 +2,5 @@
 
 "simple hello world app"
 
+"say hello devs in the home page"
+
