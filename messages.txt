@@ -6,3 +6,5 @@
 
 "say hello devs in the home page"
 
+"Add tiles in the home page for developer actions for developers using an AI development platform"
+
